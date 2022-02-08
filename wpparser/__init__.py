@@ -12,8 +12,8 @@ readable dictionary.
 """
 
 __title__ = "wpparser"
-__version__ = "1.1.2"
-__build__ = 112
+__version__ = "1.1.3"
+__build__ = 113
 __author__ = "Martin Sandström"
 __license__ = "MIT"
 __copyright__ = "Copyright 2014-2020 Martin Sandström"
